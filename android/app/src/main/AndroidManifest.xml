@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.sejuta_cita">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="sejuta_cita"
+        android:label="Flutter Dev Test - Alvin Zulham F"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
